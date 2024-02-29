@@ -127,7 +127,6 @@
   <ItemGroup>
     <ClCompile Include="LoginForm.cpp" />
     <ClCompile Include="Main Page.cpp" />
-    <ClCompile Include="UserFunctions.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LoginForm.h">

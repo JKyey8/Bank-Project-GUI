@@ -21,9 +21,6 @@
     <ClCompile Include="LoginForm.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="UserFunctions.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Main Page.h">
